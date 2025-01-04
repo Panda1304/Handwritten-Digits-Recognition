@@ -5,6 +5,7 @@ This project centers around image processing, focusing on the development of a m
 The model is trained on the MNIST dataset, a widely used benchmark for handwritten digit recognition. This dataset serves as a strong foundation for testing the model's performance and ensuring its ability to accurately classify digit images.
 
 Technologies Used:
+
 Python,
 Numpy,
 TensorFlow,
